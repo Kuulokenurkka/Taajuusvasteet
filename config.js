@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["Antdroid v3 Target"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Harman 2018"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
 DIR = "data/",                                // Directory where graph files are stored
 data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
 default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
@@ -11,7 +11,7 @@ alt_layout = true,                           // Toggle between classic and alt l
 share_url = true,                             // If true, enables shareable URLs
 watermark_text = "Kuulokenurkka.com",                 // Optional. Watermark appears behind graphs
 watermark_image_url = "Logo_musta_transparent_2.png",   // Optional. If image file is in same directory as config, can be just the filename
-page_title = "Audio Discourse Graphs";                     // Optional. Appended to the page title if share URLs are enabled
+page_title = "Taajuusvasteiden vertailutyökalu";                     // Optional. Appended to the page title if share URLs are enabled
 
 // Specify which targets to display
 const targets = [
