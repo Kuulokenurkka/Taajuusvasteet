@@ -37,7 +37,7 @@ function watermark(svg) {
 
   if ( watermark_text ) {
     wm.append("text")
-    .attrs({x:250, y:170, "font-size":16, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
+    .attrs({x:250, y:170, "font-size":17, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
     .text(watermark_text);
   }
 }
