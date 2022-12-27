@@ -32,12 +32,12 @@ function watermark(svg) {
 
   if ( watermark_image_url ) {
     wm.append("image")
-    .attrs({x:-380, y:+20, width:150, height:150,  "xlink:href":watermark_image_url});
+    .attrs({x:-380, y:35, width:150, height:150,  "xlink:href":watermark_image_url});
   }
 
   if ( watermark_text ) {
     wm.append("text")
-    .attrs({x:255, y:170, "font-size":17, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
+    .attrs({x:240, y:170, "font-size":17, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
     .text(watermark_text);
   }
 }
