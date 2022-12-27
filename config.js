@@ -9,15 +9,15 @@ default_norm_hz = 500,                       // Sets default Hz normalization po
 max_channel_imbalance = 5,                    // ???
 alt_layout = true,                           // Toggle between classic and alt layouts
 share_url = true,                             // If true, enables shareable URLs
-watermark_text = "http://www.AudioDiscourse.com",                 // Optional. Watermark appears behind graphs
-watermark_image_url = "logo.png",   // Optional. If image file is in same directory as config, can be just the filename
+watermark_text = "Kuulokenurkka.com",                 // Optional. Watermark appears behind graphs
+watermark_image_url = "Logo_musta_transparent_2.png",   // Optional. If image file is in same directory as config, can be just the filename
 page_title = "Audio Discourse Graphs";                     // Optional. Appended to the page title if share URLs are enabled
 
 // Specify which targets to display
 const targets = [
   //{ type:"Neutral"   , files:["Diffuse Field", "Free Field", "Harman In-Room", "In-Ear Fidelity"] },
   //{ type:"Preference", files:["Antdroid","Harman 2013","Harman 2018", "Optimum Hifi","Sonarworks"] }
-  { type:"", files:["Antdroid v3","Diffuse Field","Free Field","Harman In-Room","Harman 2013","Harman 2018","In-Ear Fidelity","USOUND3V0 Optimum Hifi","Sonarworks"]}
+  { type:"", files:["Diffuse Field","Harman 2013","Harman 2018","In-Ear Fidelity"]}
 ];
 
 
