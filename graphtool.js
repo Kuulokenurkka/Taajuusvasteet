@@ -94,31 +94,11 @@ doc.html(`
       </div>
 
       <div class="about-this-tool">
-        <p><b>Audio Discourse Notes</b></p>
-	<p>Graph data presented here was measured using an IEC 60318-4 compliant coupler and compensated to match closely to the GRAS 43AG simulator.</p>
-	<p>This <a href="https://github.com/mlochbaum/CrinGraph">Graph Tool</a> was created by Marshall Lochbaum with contributions from Crinacle, Mark Sallee (Super*), Banbeucmas, and Anthony Nguyen (Antdroid).</p>
+        <p><b>Huomiot</b></p>
+	<p>Taajuusvasteet on mitattu IEC711-standardit täyttävällä laitteistolla, jota on kompensoitu 8-20 kHz:n välillä vastaamaan paremmin GRAS 43AG -laitteistoa.</p>
+	<p>Vertailutyökalun on tehnyt alun perin Marshall Lochbaum, Crinacle, Mark Sallee, Banbeucmas ja Anthony Nguyen.</p>
       </div>
 
-      	<div class="more-graph-sites">
-	<span>Audio Discourse</span>
-	<a href="https://www.audiodiscourse.com/">Reviews</a>
-	<a href="https://iems.audiodiscourse.com/">IEM Graphs</a>
-	<a href="https://headphones.audiodiscourse.com/">Headphone Graphs</a>
-	</div> <div class="more-graph-sites">
-        <span>IEM graph databases</span>
-	<a href="https://hbb.squig.link/">BGGAR</a>
-        <a href="https://banbeu.com/graph/tool/">Banbeucmas</a>
-        <a href="https://www.hypethesonics.com/iemdbc/">HypetheSonics</a>
-        <a href="https://crinacle.com/graphs/iems/graphtool/">In-Ear Fidelity</a>
-        <a href="https://precog.squig.link/">Precogvision</a>
-        <a href="https://squig.link/">Super* Review</a>
-	</div> <div class="more-graph-sites">
-        <span>Headphones</span>
-	<a href="https://headphonetestlab.co.uk/">Headphone Test Lab</a>
-        <a href="https://crinacle.com/graphs/headphones/graphtool/">In-Ear Fidelity</a>
-	<a href="https://headphonedatabase.com/">Oratory1990 Database</a>
-        <a href="https://squig.link/hp.html">Super* Review</a>
-      </div>
     </section>
 
     <section class="parts-secondary">
