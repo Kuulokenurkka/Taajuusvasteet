@@ -94,9 +94,9 @@ doc.html(`
       </div>
 
       <div class="about-this-tool">
-        <p><b>Huomiot</b></p>
+        <p><b>Lisätietoja:</b></p>
 	<p>Taajuusvasteet on mitattu IEC711-standardit täyttävällä laitteistolla, jota on kompensoitu 8-20 kHz:n välillä vastaamaan paremmin GRAS 43AG -laitteistoa.</p>
-	<p>Vertailutyökalun on tehnyt alun perin Marshall Lochbaum, Crinacle, Mark Sallee, Banbeucmas ja Anthony Nguyen.</p>
+	<p>Vertailutyökalun ovat tehneet alun perin Marshall Lochbaum, Crinacle, Mark Sallee, Banbeucmas ja Anthony Nguyen.</p>
       </div>
 
     </section>
