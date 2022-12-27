@@ -17,7 +17,7 @@ page_title = "Taajuusvasteiden vertailutyökalu";                     // Optiona
 const targets = [
   //{ type:"Neutral"   , files:["Diffuse Field", "Free Field", "Harman In-Room", "In-Ear Fidelity"] },
   //{ type:"Preference", files:["Antdroid","Harman 2013","Harman 2018", "Optimum Hifi","Sonarworks"] }
-  { type:"", files:["Diffuse Field","Harman 2013","Harman 2018"]}
+  { type:"", files:["Harman 2018","Diffuse Field"]}
 ];
 
 
