@@ -10,7 +10,7 @@ max_channel_imbalance = 5,                    // ???
 alt_layout = true,                           // Toggle between classic and alt layouts
 share_url = true,                             // If true, enables shareable URLs
 watermark_text = "Kuulokenurkka.com",                 // Optional. Watermark appears behind graphs
-watermark_image_url = "Logo_musta_transparent_2.png",   // Optional. If image file is in same directory as config, can be just the filename
+watermark_image_url = "Logo_musta_transparent_github.png",   // Optional. If image file is in same directory as config, can be just the filename
 page_title = "Taajuusvasteiden vertailutyökalu";                     // Optional. Appended to the page title if share URLs are enabled
 
 // Specify which targets to display
