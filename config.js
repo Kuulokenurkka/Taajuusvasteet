@@ -1,5 +1,5 @@
 // Configuration options
-const //init_phones = ["Harman 2018 Target"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["Harman 2018 Target"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
 DIR = "Data/",                                // Directory where graph files are stored
 data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
 default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
