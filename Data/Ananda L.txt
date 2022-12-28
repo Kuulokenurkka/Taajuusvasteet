@@ -1,17 +1,4 @@
-* Measurement data measured by REW V5.20.9
-* Source: E:\IEC711 mittaukset\Korjattavat\Hifiman Ananda\Ananda Left AVG Fixed.txt
-* Format: Comma/Tab/Space delimited data
-* Dated: 21.12.2022 19:55:52
-* REW Settings:
-*  C-weighting compensation: Off
-*  Target level: 75.0 dB
-* Note: ; Measurement imported from E:\IEC711 mittaukset\Korjattavat\Hifiman Ananda\Ananda Left AVG Fixed.txt Format: Comma/Tab/Space delimited data 19986 values loaded, 15 Hz to 20 000 Hz 
-* Measurement: Ananda Left AVG Fixed
-* Smoothing: 1/48 octave
-* Frequency Step: 1/48 octave
-* Start Frequency: 20.000 Hz
-*
-* Freq(Hz)	SPL(dB)
+Freq(Hz)	SPL(dB)
 20.000000	80.065
 20.299999	80.261
 20.600000	80.432
@@ -493,4 +480,3 @@
 19500.000000	74.371
 19750.000000	75.008
 20000.000000	74.986
-
