@@ -50,7 +50,7 @@ function initTsvParse() {
     var dataStart = 3,
     dataEnd = 482;
   } else if ( data_format.toLowerCase() === "rew" ) {
-    var dataStart = 2,
+    var dataStart = 1,
     dataEnd = 20000;
   } else {
     // If exporting data from something other than AudioTools or REW, edit these vals to indicate on which lines of your text files the measurements data begins and ends
