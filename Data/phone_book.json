@@ -1,5 +1,9 @@
 [
   {
+    "name":   "AKG",
+    "phones": [ "K712 Pro" ]
+  },
+  {
     "name":   "Bowers & Wilkins",
     "phones": [ "PX7 S2 ANC ON" ]
   },
