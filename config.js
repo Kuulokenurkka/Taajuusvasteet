@@ -4,7 +4,7 @@ DIR = "Data/",                                // Directory where graph files are
 data_format = "REW",                   // Accepts "AudioTools," "REW," or "other"
 default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
 default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
-default_norm_db = 60,                         // Sets default dB normalization point
+default_norm_db = 75,                         // Sets default dB normalization point
 default_norm_hz = 500,                       // Sets default Hz normalization point
 max_channel_imbalance = 5,                    // ???
 alt_layout = true,                           // Toggle between classic and alt layouts
@@ -17,7 +17,7 @@ page_title = "Taajuusvasteiden vertailutyökalu";                     // Optiona
 const targets = [
   //{ type:"Neutral"   , files:["Diffuse Field", "Free Field", "Harman In-Room", "In-Ear Fidelity"] },
   //{ type:"Preference", files:["Antdroid","Harman 2013","Harman 2018", "Optimum Hifi","Sonarworks"] }
-  { type:"", files:["Harman 2018 Target","Harman 2018 ilman bassokorostusta"]}
+  { type:"", files:["Harman 2018","Harman 2018 ilman bassokorostusta"]}
 ];
 
 
@@ -32,7 +32,7 @@ function watermark(svg) {
 
   if ( watermark_image_url ) {
     wm.append("image")
-    .attrs({x:-375, y:40, width:150, height:150,  "xlink:href":watermark_image_url});
+    .attrs({x:-375, y:40, width:100, height:100,  "xlink:href":watermark_image_url});
   }
 
   if ( watermark_text ) {
@@ -50,7 +50,7 @@ function initTsvParse() {
     var dataStart = 3,
     dataEnd = 482;
   } else if ( data_format.toLowerCase() === "rew" ) {
-    var dataStart = 14,
+    var dataStart = 0,
     dataEnd = 20000;
   } else {
     // If exporting data from something other than AudioTools or REW, edit these vals to indicate on which lines of your text files the measurements data begins and ends
