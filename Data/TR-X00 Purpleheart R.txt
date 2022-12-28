@@ -1,17 +1,4 @@
-* Measurement data measured by REW V5.20.9
-* Source: Frequency Response Averaged data
-* Format: Averaged data produced from the rms magnitudes of lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3
-* Dated: 3.10.2022 18:01:27
-* REW Settings:
-*  C-weighting compensation: Off
-*  Target level: 75.0 dB
-* Note: ; Averaged data produced from the rms magnitudes of lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3, lokakuuta 3
-* Measurement: TR-X00 PH Right AVG Tiukka
-* Smoothing: 1/48 octave
-* Frequency Step: 1/48 octave
-* Start Frequency: 20.000 Hz
-*
-* Freq(Hz)	SPL(dB)
+Freq(Hz)	SPL(dB)
 20.000000	86.900
 20.299999	86.992
 20.600000	87.060
