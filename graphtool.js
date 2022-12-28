@@ -1105,7 +1105,7 @@ function addKey(s) {
     t.selectAll().data(p=>p.isTarget?[]:LR)
         .join("text").attr("class","keyCLabel")
         .attrs({x:17+keyExt, y:(_,i)=>12*(i-(LR.length-1)/2),
-                dy:"0.32em", "text-anchor":"start", "font-size":10.5})
+                dy:"0.32em", "text-anchor":"start", "font-size":8.5})
         .text(t=>t);
     t.filter(p=>p.isTarget).append("text")
         .attrs(keyExt?{x:7,y:6,"text-anchor":"middle"}
@@ -1143,7 +1143,7 @@ function addKey(s) {
                             "font-size":7.5 })
         .text("only");
     s.append("text").attr("class","imbalance")
-        .attrs({x:8,y:0,dy:"0.35em","font-size":10.5})
+        .attrs({x:8,y:0,dy:"0.35em","font-size":8.5})
         .text("!");
     if (sampnums.length>1) {
         let a = s.filter(p=>!p.isTarget);
