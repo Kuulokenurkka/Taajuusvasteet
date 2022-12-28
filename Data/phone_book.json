@@ -1,7 +1,7 @@
 [
   {
     "name":   "Fostex",
-    "phones": [ {"name":"TR-X00 Purpleheart","file":["TR-X00 PH"]} ] 
+    "phones": [ "TR-X00 Purpleheart" ] 
   },
   {
     "name":   "Hifiman",
