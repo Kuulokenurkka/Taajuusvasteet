@@ -94,7 +94,7 @@ doc.html(`
       </div>
 
       <div class="about-this-tool">
-	<p>Mittaukset on tehty IEC711-standardin mukaisella laitteella 5-10 mittauskerran keskiarvona per kanava. Taajuusvasteita on lisäksi kompensoitu hieman 8-20 kHz:n välillä, jotta tulokset ovat vertailukelpoisempia GRAS 43AG -laitteiston kanssa. Tämän sivun työkalu pohjautuu avoimen lähdekoodin <a href="https://github.com/mlochbaum/CrinGraph">Cringraph</a> projektiin, johon ovat tuoneet oman panoksensa Marshall Lochbaum, Crinacle, Mark Sallee, Banbeucmas ja Anthony Nguyen. </p>
+	<p>Mittaukset on tehty IEC711-standardin mukaisella laitteella 5-10 mittauskerran keskiarvona per kanava. Taajuusvasteita on lisäksi kompensoitu hieman 8-20 kHz:n välillä, jotta tulokset ovat vertailukelpoisempia GRAS 43AG -laitteiston kanssa. Tämän sivun työkalu pohjautuu avoimen lähdekoodin <a href="https://github.com/mlochbaum/CrinGraph">Cringraph</a> projektiin, johon ovat antaneet oman panoksensa Marshall Lochbaum, Crinacle, Mark Sallee, Banbeucmas ja Anthony Nguyen. </p>
       </div>
 
     </section>
