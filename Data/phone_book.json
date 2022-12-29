@@ -9,7 +9,7 @@
   },
   {
     "name":   "Bowers & Wilkins",
-    "phones": [ "PX7 S2 ANC ON" ]
+    "phones": [ {"name":"PX7 S2","file":["PX7 S2 ANC ON"]} ]
   },
   {
     "name":   "Denon",
