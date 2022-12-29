@@ -33,7 +33,7 @@
   },
   {
     "name":   "Modhouse Audio",
-    "phones": [ "Argon mk3 ZMF Oval Pleather Pads" ]
+    "phones": [ {"name":"Argon mk3","file":["Argon mk3 (ZMF Oval Pleather Pads)"]} ]
   },
   {
     "name":   "Sennheiser",
