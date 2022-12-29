@@ -24,6 +24,10 @@
     "phones": [ "Ananda","Deva Pro","Edition XS","HE-400SE","HE-R9","Sundara",{"name":"Sundara Closed","file":["Sundara Closed Sample 1","Sundara Closed Sample 2"]} ]
   },
   {
+    "name":   "Meze Audio",
+    "phones": [ {"name":"Empyrean","file":["Empyrean Leather Pads","Empyrean Suede Pads"]} ]
+  },
+  {
     "name":   "Sennheiser",
     "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 ZMF Perforated Leather Pads"]},"HD800 SDR Mod" ]
   }
