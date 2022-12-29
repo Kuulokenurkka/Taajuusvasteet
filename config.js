@@ -32,7 +32,7 @@ function watermark(svg) {
 
   if ( watermark_image_url ) {
     wm.append("image")
-    .attrs({x:-375, y:85, width:100, height:100,  "xlink:href":watermark_image_url});
+    .attrs({x:-375, y:82, width:100, height:100,  "xlink:href":watermark_image_url});
   }
 
   if ( watermark_text ) {
