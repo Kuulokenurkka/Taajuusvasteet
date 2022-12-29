@@ -25,6 +25,6 @@
   },
   {
     "name":   "Sennheiser",
-    "phones": [ "HD600" ]
+    "phones": [ {"name":"HD600","file":["HD600","HD600 ZMF Perforated Leather Pads"]} ]
   }
 ]
