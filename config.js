@@ -28,7 +28,7 @@ const targets = [
 function watermark(svg) {
   let wm = svg.append("g")
   .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
-  .attr("opacity",0.5);
+  .attr("opacity",0.4);
 
   if ( watermark_image_url ) {
     wm.append("image")
@@ -37,7 +37,7 @@ function watermark(svg) {
 
   if ( watermark_text ) {
     wm.append("text")
-    .attrs({x:260, y:170, "font-size":17, "font-family":"tahoma", "text-anchor":"middle", "class":"graph-name"})
+    .attrs({x:260, y:170, "font-size":17, "font-family":"berlin sans fb", "text-anchor":"middle", "class":"graph-name"})
     .text(watermark_text);
   }
 }
