@@ -28,7 +28,7 @@ const targets = [
 function watermark(svg) {
   let wm = svg.append("g")
   .attr("transform", "translate("+(pad.l+W/2)+","+(pad.t+H/2-20)+")")
-  .attr("opacity",0.2);
+  .attr("opacity",0.5);
 
   if ( watermark_image_url ) {
     wm.append("image")
