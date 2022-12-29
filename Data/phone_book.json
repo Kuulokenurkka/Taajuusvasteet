@@ -9,7 +9,7 @@
   },
   {
     "name":   "Bowers & Wilkins",
-    "phones": [ {"name":"PX7 S2","file":["PX7 S2 (ANC ON)"]} ]
+    "phones": [ {"name":"PX7 S2","file":"PX7 S2 (ANC ON)"} ]
   },
   {
     "name":   "Denon",
@@ -33,7 +33,7 @@
   },
   {
     "name":   "Modhouse Audio",
-    "phones": [ {"name":"Argon mk3","file":["Argon mk3 (ZMF Oval Pleather Pads)"]} ]
+    "phones": [ {"name":"Argon mk3","file":"Argon mk3 (ZMF Oval Pleather Pads)"} ]
   },
   {
     "name":   "Sennheiser",
