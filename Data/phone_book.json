@@ -49,6 +49,6 @@
   },
   {
     "name":   "ZMF",
-    "phones": [ {"name":"Atrium","file":["Atrium (Universe Perf Leather Pads)","Atrium (Universe Perf Suede Pads)","Atrium (Auteur Perf Leather Pads)","Atrium (BE2 Perf Leather Pads)"]},{"name":"Atticus","file":["Atticus (Ori Leather Pads)"]},{"name":"Auteur","file":["Auteur (Auteur Perf Leather Pads)"]},{"name":"Verite Open","file":["Verite Open (Universe Perf Leather Pads)","Verite Open (Universe Perf Suede Pads)","Verite Open (BE2 Perf Leather Pads)","Verite Open (BE2 Perf Hybrid Pads)"]} ]
+    "phones": [ {"name":"Atrium","file":["Atrium (Universe Perf Leather Pads)","Atrium (Universe Perf Suede Pads)","Atrium (Auteur Perf Leather Pads)","Atrium (BE2 Perf Leather Pads)"]},{"name":"Atticus","file":["Atticus (Ori Leather Pads)"]},{"name":"Auteur","file":["Auteur (Auteur Perf Leather Pads)"]},{"name":"Verite Open","file":["Verite Open (Universe Perf Leather Pads)","Verite Open (Universe Perf Suede Pads)","Verite Open (BE2 Perf Leather Pads)","Verite Open (BE2 Perf Hybrid Pads)","Verite Open (Auteur Perf Hybrid Pads)"]} ]
   }
 ]
