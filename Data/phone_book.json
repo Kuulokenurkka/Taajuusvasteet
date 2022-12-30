@@ -43,8 +43,12 @@
     "name":   "Sennheiser",
     "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 (ZMF Perforated Leather Pads)"]},"HD800 (SDR Mod)",{"name":"Momentum 3 Wireless","file":["Momentum 3 Wireless (HEST)"]} ]
   },
-    {
+  {
     "name":   "Valco",
     "phones": [ {"name":"VMK20","file":["VMK20 (ANC ON)","VMK20 (ANC OFF)"]} ]
+  },
+  {
+    "name":   "ZMF",
+    "phones": [ {"name":"Atrium","file":["Atrium (Universe Perf Leather Pads)","Atrium (Universe Perf Suede Pads)","Atrium (Auteur Perf Leather Pads"),"Atrium (BE2 Perf Leather Pads)"]} ]
   }
 ]
