@@ -41,6 +41,6 @@
   },
     {
     "name":   "Valco",
-    "phones": [ {"name":"VMK20","file":["VMK20 (ANC ON)","VMK20 (ANC OFF)"]} ]
+    "phones": [ {"name":"VMK20","file":["Valco VMK20 (ANC ON)","Valco VMK20 (ANC OFF)"]} ]
   }
 ]
