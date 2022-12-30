@@ -38,5 +38,9 @@
   {
     "name":   "Sennheiser",
     "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 (ZMF Perforated Leather Pads)"]},"HD800 (SDR Mod)" ]
+  },
+    {
+    "name":   "Valco",
+    "phones": [ {"name":"VMK20","file":["VMK20 (ANC ON)","VMK20 (ANC OFF)"]} ]
   }
 ]
