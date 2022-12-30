@@ -706,8 +706,10 @@ function loadFiles(p, callback) {
     Promise.all(f).then(function (frs) {
         if (!frs.some(f=>f!==null)) {
             alert("Headphone not found!");
-        } else {
-            callback(frs.map(f => f && tsvParse(f)));
+	} else {
+            let ch = frs.map(f => f && tsvParse(f));
+            if (!f_values) { f_values = ch[0].map(d=>d[0]); }
+            callback(ch);
         }
     });
 }
