@@ -37,7 +37,7 @@
   },
   {
     "name":   "Sennheiser",
-    "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 (ZMF Perforated Leather Pads)"]},"HD800 (SDR Mod)" ]
+    "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 (ZMF Perforated Leather Pads)"]},"HD800 (SDR Mod)",{"name":"Momentum 3 Wireless","file":["Momentum 3 Wireless (HEST)"]} ]
   },
     {
     "name":   "Valco",
