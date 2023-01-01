@@ -5,7 +5,7 @@
   },
   {
     "name":   "Anker Soundcore",
-    "phones": [ {"name":"Life Q30","file":["Life Q30 (ANC ON)"]} ]
+    "phones": [ {"name":"Life Q30","file":["Life Q30 (ANC ON)"]},{"name":"Space Q45","file":["Space Q45 (ANC ON)"]} ]
   },
   {
     "name":   "Audeze",
