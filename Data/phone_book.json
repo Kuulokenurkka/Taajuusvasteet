@@ -12,6 +12,10 @@
     "phones": [ {"name":"LCD-R","file":["LCD-R (Bass Setting ON)"]} ]
   },
   {
+    "name":   "Audio Technica",
+    "phones": [ "ATH-HL7BT" ]
+  },
+  {
     "name":   "Beyerdynamic",
     "phones": [ "DT700 Pro X","DT770 Pro (80 ohm)","DT900 Pro X" ]
   },
