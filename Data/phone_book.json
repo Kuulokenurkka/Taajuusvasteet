@@ -48,6 +48,10 @@
     "phones": [ {"name":"Argon mk3","file":["Argon mk3 (ZMF Oval Pleather Pads)"]} ]
   },
   {
+    "name":   "Moondrop",
+    "phones": [ "Venus" ]
+  },
+  {
     "name":   "Sennheiser",
     "phones": [ "HD580 Precision",{"name":"HD600","file":["HD600","HD600 (ZMF Perforated Leather Pads)"]},"HD800 (SDR Mod)",{"name":"Momentum 3 Wireless","file":["Momentum 3 Wireless (HEST)"]} ]
   },
