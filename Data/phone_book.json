@@ -4,6 +4,10 @@
     "phones": [ "K712 Pro" ]
   },
   {
+    "name":   "Anker Soundcore",
+    "phones": [ {"name":"Life Q30","file":["Life Q30 (ANC ON)"]} ]
+  },
+  {
     "name":   "Audeze",
     "phones": [ {"name":"LCD-R","file":["LCD-R (Bass Setting ON)"]} ]
   },
